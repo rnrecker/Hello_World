@@ -9,7 +9,9 @@ I will be interning this summer at Wells Fargo in Minneapolis and am very excite
 
 # *TABLE OF CONTENTS*
 **1. Title of Project**
+
 **2. Project Description**
+
 **3. How to Run a Program**
 **4. Files Used**
 **5. Additional Documentation**
